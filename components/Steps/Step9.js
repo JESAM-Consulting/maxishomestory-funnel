@@ -162,7 +162,7 @@ export default function Step9() {
       interesse_finanzierung: userData.step4,
       dachform: userData.step3,
       art_heizung: userData.step5,
-      leadherkunft: "https://energiekonzept.netlify.app",
+      leadherkunft: "https://maxishomestory-funnel.netlify.app/",
       Bemerkungen: calculatedDa,
       project: "maxishomestory"
     };
